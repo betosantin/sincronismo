@@ -1,0 +1,22 @@
+{
+  "name": "sincronismo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/betosantin/sincronismo.git"
+  },
+  "author": "Roberto Santin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/betosantin/sincronismo/issues"
+  },
+  "homepage": "https://github.com/betosantin/sincronismo#readme",
+  "dependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
